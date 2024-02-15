@@ -4,10 +4,9 @@
 
 ## About Me 
 * 🔭 I’m currently working on integrating ML in WebApps and Building Pipelines.
-* 💻 Proficient in Creating ML Models.
+* 💻 Proficient in Creating ML and Deep Learning Models.
 * 🌱 I’m currently learning Unsupervised Algorithms.
-* 💬 Ask me about Artificial Intelligance, CyberSecurity and its Future.
-* ⚡ Fun fact I've broken 3 keyboards by coding obviously :)
+* 💬 Ask me about Artificial Intelligance, CyberSecurity and their Future.
 * 📫 Reach me via Email- sudhanshupatil.work@gmail.com
 
 ## 🛠 Arsenal 
